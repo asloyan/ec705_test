@@ -1,6 +1,4 @@
-# ec705_test_2
-notaidan
-notaidan
-notaidan
-notaidan
-notaidan
+## Project EC705
+Authors: Aidan and NotAidan
+
+
